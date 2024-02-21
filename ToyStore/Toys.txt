@@ -1,0 +1,15 @@
+
+Toy [id=0, name=РљСѓРєР»Р°, weight=348]
+Toy [id=1, name=РњР°С€РёРЅРєР°, weight=245]
+Toy [id=2, name=Р РѕР±РѕС‚, weight=886]
+Toy [id=3, name=РњР°С‚СЂС‘С€РєР°, weight=767]
+
+
+Toy [id=1, name=Машинка, weight=245.0]
+Toy [id=0, name=Кукла, weight=348.0]
+Toy [id=3, name=Матрёшка, weight=767.0]
+Toy [id=2, name=Робот, weight=886.0]
+Toy [id=2, name=Робот, weight=886.0]
+Toy [id=3, name=Матрёшка, weight=767.0]
+Toy [id=0, name=Кукла, weight=348.0]
+Toy [id=1, name=Машинка, weight=245.0]
